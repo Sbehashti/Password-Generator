@@ -24,3 +24,11 @@ For this project, I was tasked with writing a function in JavaScript to generate
 - When the password is generated, it matches all the above criteria and is displayed in the box on the page
 
 ## Deployed Page URL
+
+
+## Deployed Page
+
+
+## Credits
+- Javascript Generate Password Function written by Sier Behashti https://github.com/sbehashti
+- Starter Code provided by UC Davis Coding Bootcamp
